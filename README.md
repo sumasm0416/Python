@@ -4,20 +4,16 @@ Each notebook provides explanations, examples, and exercises to help you learn a
 
 Table of Contents
 
-Introduction to Python
-Variables and Data Types
-Control Flow
-Functions
-Lists and Tuples
-Dictionaries and Sets
-File Handling
-Object-Oriented Programming
-Modules and Packages
-Error Handling
-Regular Expressions
-Data Manipulation with Pandas
-Data Visualization with Matplotlib
-Web Scraping with BeautifulSoup
+Introduction to Python |
+Variables and Data Types |
+Control Flow |
+Functions |
+Lists and Tuples |
+Dictionaries and Sets |
+File Handling |
+Object-Oriented Programming |
+Modules and Packages |
+Error Handling |
 
 Contributing
 
