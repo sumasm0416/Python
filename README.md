@@ -23,4 +23,4 @@ If you would like to contribute to this repository, feel free to submit a pull r
 
 The content in this repository is based on various Python tutorials, books, and online resources. The authors and sources of the original content are acknowledged within each notebook.
 
-#Thanks!
+# Thanks!
