@@ -1,4 +1,4 @@
-# Python Topics
+# Python
 
 This repository contains Jupyter Notebook files covering various Python topics. Each notebook provides explanations, examples, and exercises to help you learn and practice different aspects of Python programming.
 
